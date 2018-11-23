@@ -4,11 +4,8 @@
 ## DevRel is like coffee
 @snapend
 
----
+---?image=assets/images/coffee.gif&size=auto
 @title[Coffee...mmm....]
-@snap[midpoint]
-![coffeecup](assets/images/coffee.gif)
-@snapend
 
 ---
 @title[About Me]
