@@ -1,6 +1,6 @@
 ---
 @title[Introduction]
-@snap[east]
+@snap[midpoint]
 ## DevRel is like coffee
 @snapend
 ---
