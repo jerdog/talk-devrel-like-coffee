@@ -1,7 +1,7 @@
 ---?image=assets/images/coffee.gif&size=auto 80%
 @title[Introduction]
-@snap[midpoint]
-## DevRel is like coffee
+@snap[south]
+## DevRel @fa[hand-point-up]
 @snapend
 
 ---
