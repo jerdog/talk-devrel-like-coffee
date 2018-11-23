@@ -1,7 +1,7 @@
 ---?image=assets/images/coffee.gif&size=auto 80%
 @title[Introduction]
 @snap[south]
-### DevRel @fa[magic]
+## DevRel @fa[hand-point-up]
 @snapend
 
 ---
