@@ -6,8 +6,9 @@
 
 ---
 @title[Coffee...mmm....]
-
+@snap[midpoint]
 ![coffeecup](assets/images/coffee.gif)
+@snapend
 
 ---
 @title[About Me]
