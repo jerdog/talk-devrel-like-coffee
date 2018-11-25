@@ -21,3 +21,7 @@
 
 ---?image=assets/images/coffee_title.jpg&size=auto
 ### So what does this have to do with coffee?
+
+---
+## 2008 - 2010
+![crazy kids](assets/images/crazykids.jpg)
