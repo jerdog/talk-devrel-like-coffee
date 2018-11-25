@@ -17,8 +17,8 @@
 
 ---
 @snap[midpoint]
-#### @color[#F39C12](Rel)ations(hips) with @color[#F39C12](Dev)eloper(s)
+#### @color[#F39C12](Relations)(hips) with @color[#F39C12](Developer)(s)
 
 ---
-@snap [midpoint]
+@snap[midpoint]
 "the purpose of Developer Relations is to *build relationships with the developer community*" -Mary Thengvall, "The Business Value of Developer Relations"
