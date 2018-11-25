@@ -18,3 +18,7 @@
 
 ---
 "*build @color[#F39C12](rel)ationships with the @color[#F39C12](dev)eloper community*" -Mary Thengvall, "The Business Value of Developer Relations"
+
+---?image=assets/images/coffee_title.jpg&size=auto
+@snap[west]
+### So what does this have to do with coffee?
