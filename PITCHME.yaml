@@ -1,5 +1,5 @@
 theme : night
-layout : top
+layout : center
 logo : assets/images/logo.png
 theme-override : assets/css/PITCHME.css
 transition : none
