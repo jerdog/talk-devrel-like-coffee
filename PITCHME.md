@@ -17,7 +17,7 @@
 #### @color[#F39C12](Relations)(hips) with @color[#F39C12](Developer)(s)
 
 ---
-@quote[*build @color[#F39C12](rel)ationships with the @color[#F39C12](dev)eloper community*.](Mary Thengvall)
+@quote[*build (rel)ationships with the (dev)eloper community*.](Mary Thengvall)
 
 ---
 "*build @color[#F39C12](rel)ationships with the @color[#F39C12](dev)eloper community*" -Mary Thengvall, "The Business Value of Developer Relations"
