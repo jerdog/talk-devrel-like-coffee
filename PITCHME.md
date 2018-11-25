@@ -19,15 +19,34 @@
 ---
 @quote[build relationships with the developer community](Mary Thengvall)
 
----
-"*build @color[#F39C12](rel)ationships with the @color[#F39C12](dev)eloper community*" -Mary Thengvall, "The Business Value of Developer Relations"
-
 ---?image=assets/images/coffee_title.jpg&size=auto
 ### So what does this have to do with coffee?
 
 ---
 ## 2008 - 2010
 ![crazy kids](assets/images/crazykids.jpg)
+
+---
+@title[Components of a good coffee]
+@snap[north-west span-25]
+@box[bg-orange text-white rounded demo-box-pad](Equipment)
+@snapend
+
+@snap[north-east span-25]
+@box[bg-orange text-white rounded demo-box-pad](Water)
+@snapend
+
+@snap[south-east span-25]
+@box[bg-orange text-white rounded demo-box-pad](Temp)
+@snapend
+
+@snap[south-west span-25]
+@box[bg-orange text-white rounded demo-box-pad](Barista)
+@snapend
+
+@snap[midpoint]
+@box[bg-orange text-white rounded demo-box-pad](Coffee)
+@snapend
 
 ---
 ## Components of a Good Cup of Coffee
