@@ -17,4 +17,4 @@
 #### @color[#F39C12](Relations)(hips) with @color[#F39C12](Developer)(s)
 
 ---
-"the purpose of @color[#F39C12](Dev)eloper @color[#F39C12](Rel)ations is to *build @color[#F39C12](rel)ationships with the @color[#F39C12](dev)eloper community*" -Mary Thengvall, "The Business Value of Developer Relations"
+"*build @color[#F39C12](rel)ationships with the @color[#F39C12](dev)eloper community*" -Mary Thengvall, "The Business Value of Developer Relations"
