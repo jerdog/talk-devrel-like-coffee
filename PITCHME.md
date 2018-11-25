@@ -17,7 +17,7 @@
 #### @color[#F39C12](Relations)(hips) with @color[#F39C12](Developer)(s)
 
 ---?image=assets/images/devrel_book.jpg&position=left&size=60% auto
-@snap[east span-25]
+@snap[east span-40]
 @quote[build relationships with the developer community](Mary Thengvall)
 @snapend
 
@@ -27,28 +27,6 @@
 ---
 ## 2008 - 2010
 ![crazy kids](assets/images/crazykids.jpg)
-
----
-@title[Components of a good coffee]
-@snap[north-west span-25]
-@box[bg-orange text-white rounded demo-box-pad](Equipment)
-@snapend
-
-@snap[north-east span-25]
-@box[bg-orange text-white rounded demo-box-pad](Water)
-@snapend
-
-@snap[south-east span-25]
-@box[bg-orange text-white rounded demo-box-pad](Temp)
-@snapend
-
-@snap[south-west span-25]
-@box[bg-orange text-white rounded demo-box-pad](Barista)
-@snapend
-
-@snap[midpoint]
-@box[bg-orange text-white rounded demo-box-pad](Coffee)
-@snapend
 
 ---
 ## Components of a Good Cup of Coffee
