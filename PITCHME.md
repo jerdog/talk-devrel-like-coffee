@@ -16,7 +16,7 @@
 ---
 #### @color[#F39C12](Relations)(hips) with @color[#F39C12](Developer)(s)
 
----
+---?image=assets/images/devrel_book.jpg&position=left&size=60% auto
 @quote[build relationships with the developer community](Mary Thengvall)
 
 ---?image=assets/images/coffee_title.jpg&size=auto
