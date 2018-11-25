@@ -17,7 +17,9 @@
 #### @color[#F39C12](Relations)(hips) with @color[#F39C12](Developer)(s)
 
 ---?image=assets/images/devrel_book.jpg&position=left&size=60% auto
+@snap[east span-50]
 @quote[build relationships with the developer community](Mary Thengvall)
+@snapend
 
 ---?image=assets/images/coffee_title.jpg&size=auto
 ### So what does this have to do with coffee?
