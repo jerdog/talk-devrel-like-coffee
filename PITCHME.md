@@ -35,20 +35,19 @@
 
 ---?image=assets/images/coffee-equipment.jpg&size=auto
 @title[Foundations of a good cup of coffee-Equipment]
-## Equipment
+## @color[#F39C12](Equipment)
 ---?image=assets/images/coffee-water.jpg&size=auto
 @title[Foundations of a good cup of coffee-Water]
-## Water
+## @color[#F39C12](Water)
 ---?image=assets/images/coffee-temp.jpg&size=auto
 @title[Foundations of a good cup of coffee-Temp]
-## Temp
+## @color[#F39C12](Temp)
 ---?image=assets/images/coffee-barista.jpg&size=auto
 @title[Foundations of a good cup of coffee-Barista]
-## Barista
+## @color[#F39C12](Barista)
 ---?image=assets/images/coffee-beans.jpg&size=auto
 @title[Foundations of a good cup of coffee-Beans]
-## Beans
-
+## @color[#F39C12](Beans)
 
 ---
 @title[Foundations of a good DevRel program]
