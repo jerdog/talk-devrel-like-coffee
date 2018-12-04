@@ -33,20 +33,21 @@
 @title[How does Coffee Relate to DevRel?]
 ## How does Coffee Relate to @color[#F39C12](DevRel)?
 
----
-@title[Foundations of a good cup of coffee]
-## Components of a Good Cup of Coffee
-- Equipment
-- Water
-- Temperature
-- Barista
-- Beans
-
 ---?image=assets/images/coffee-equipment.jpg&size=auto
+@title[Foundations of a good cup of coffee-Equipment]
+## Equipment
 ---?image=assets/images/coffee-water.jpg&size=auto
+@title[Foundations of a good cup of coffee-Water]
+## Water
 ---?image=assets/images/coffee-temp.jpg&size=auto
+@title[Foundations of a good cup of coffee-Temp]
+## Temp
 ---?image=assets/images/coffee-barista.jpg&size=auto
+@title[Foundations of a good cup of coffee-Barista]
+## Barista
 ---?image=assets/images/coffee-beans.jpg&size=auto
+@title[Foundations of a good cup of coffee-Beans]
+## Beans
 
 
 ---
