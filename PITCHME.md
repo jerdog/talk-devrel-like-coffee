@@ -50,18 +50,12 @@
 ## @color[#F39C12](Beans)
 
 ---
-@title[Foundations of a good DevRel program]
-## Components of a Good @color[#F39C12](DevRel) Program
-- Empathy (Advocacy)
-
-
----
 @quote[Developers don't care what you know, until they know that you care.](Me)
 
 ---
 @title[Foundations of a good DevRel program]
 ## Components of a Good @color[#F39C12](DevRel) Program
-- Empathy (Advocacy)
+- Empathy (Advocacy) / Water
 -
 
 ---
