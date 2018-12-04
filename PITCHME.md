@@ -56,7 +56,10 @@
 @title[Foundations of a good DevRel program]
 ## Components of a Good @color[#F39C12](DevRel) Program
 - Empathy (Advocacy) / Water
--
+- Product / Beans
+- People / Barista
+- Community / Temp
+- ____ / Equipment
 
 ---
 @quote[To give real service you must add something which cannot be bought or measured with money, and that is sincerity and integrity.](Douglas Adams)
