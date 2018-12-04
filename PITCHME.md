@@ -31,7 +31,7 @@
 
 ---
 @title[How does Coffee Relate to DevRel?]
-## How does Coffee Relate to @color[#F39C12]("DevRel")?
+## How does Coffee Relate to @color[#F39C12](DevRel)?
 
 ---
 @title[Foundations of a good cup of coffee]
@@ -44,7 +44,7 @@
 
 ---
 @title[Foundations of a good DevRel program]
-## Components of a Good @color[#F39C12]("DevRel") Program
+## Components of a Good @color[#F39C12](DevRel) Program
 
 ---
 @quote[Developers don't care what you know, until they know that you care.](Me)
