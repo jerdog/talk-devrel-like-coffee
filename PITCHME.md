@@ -30,9 +30,24 @@
 @snapend
 
 ---
+@title[How does Coffee Relate to DevRel?]
+## How does Coffee Relate to @color[#F39C12]("DevRel")?
+
+---
+@title[Foundations of a good cup of coffee]
 ## Components of a Good Cup of Coffee
 - Equipment
 - Water
 - Temperature
 - Barista
 - Coffee
+
+---
+@title[Foundations of a good DevRel program]
+## Components of a Good @color[#F39C12]("DevRel") Program
+
+---
+@quote[Developers don't care what you know, until they know that you care.](Me)
+
+---
+@quote[To give real service you must add something which cannot be bought or measured with money, and that is sincerity and integrity.](Douglas Adams)
