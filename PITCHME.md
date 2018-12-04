@@ -21,7 +21,10 @@
 ---
 #### @color[#F39C12](Relations)(hips) with @color[#F39C12](Developer)(s)
 
----?image=assets/images/devrel_book.jpg&position=left&size=60% auto
+---
+@snap[west span-40]
+![devrelbook](assets/images/devrel_book.jpg)
+@snapend
 @snap[east span-40]
 @quote[build relationships with the developer community](Mary Thengvall)
 @snapend
