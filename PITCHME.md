@@ -4,10 +4,15 @@
 ## DevRel @fa[hand-o-up]
 @snapend
 
----?image=assets/images/whatisdevrel.jpg&size=auto
-@title[What is DevRel]
+---
+## 2008 - 2010
+![crazy kids](assets/images/crazykids.jpg)
+
+---?image=assets/images/coffee_title.jpg&size=auto
+### So what does this have to do with DevRel?
 
 ---?image=assets/images/whatisdevrel.jpg&size=auto
+@title[What is DevRel]
 ### So what is @color[#F39C12]("DevRel")?
 
 ---
@@ -20,13 +25,6 @@
 @snap[east span-40]
 @quote[build relationships with the developer community](Mary Thengvall)
 @snapend
-
----?image=assets/images/coffee_title.jpg&size=auto
-### So what does this have to do with coffee?
-
----
-## 2008 - 2010
-![crazy kids](assets/images/crazykids.jpg)
 
 ---
 ## Components of a Good Cup of Coffee
