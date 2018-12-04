@@ -40,14 +40,29 @@
 - Water
 - Temperature
 - Barista
-- Coffee
+- Beans
+
+---?image=assets/images/coffee-equipment.jpg&size=auto
+---?image=assets/images/coffee-water.jpg&size=auto
+---?image=assets/images/coffee-temp.jpg&size=auto
+---?image=assets/images/coffee-barista.jpg&size=auto
+---?image=assets/images/coffee-beans.jpg&size=auto
+
 
 ---
 @title[Foundations of a good DevRel program]
 ## Components of a Good @color[#F39C12](DevRel) Program
+- Empathy (Advocacy)
+
 
 ---
 @quote[Developers don't care what you know, until they know that you care.](Me)
+
+---
+@title[Foundations of a good DevRel program]
+## Components of a Good @color[#F39C12](DevRel) Program
+- Empathy (Advocacy)
+-
 
 ---
 @quote[To give real service you must add something which cannot be bought or measured with money, and that is sincerity and integrity.](Douglas Adams)
