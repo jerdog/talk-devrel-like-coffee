@@ -9,11 +9,11 @@
 ![crazy kids](assets/images/crazykids.jpg)
 
 ---?image=assets/images/coffee_title.jpg&size=auto
-### So what does this have to do with DevRel?
+### What does this have to do with DevRel?
 
 ---?image=assets/images/whatisdevrel.jpg&size=auto
 @title[What is DevRel]
-### So what is @color[#F39C12]("DevRel")?
+### What is @color[#F39C12]("DevRel")?
 
 ---
 #### @color[#F39C12](Dev)eloper + @color[#F39C12](Rel)ations
