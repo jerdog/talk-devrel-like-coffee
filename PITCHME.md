@@ -22,6 +22,28 @@
 ---
 @quote[build relationships with the developer community](Mary Thengvall)
 
+Note:
+
+Yeah — that’s a bit better. And what I really like about this one (as opposed to my terrible attempt at a lame joke), is that it encompasses so many activities (meetups, coffee with devs, conferences, community forums, etc.) which can roll up into how you “build relationships” without saying anything you have to do. Except build relationships with the developer community. That you must do. Got it?
+
+---?image=assets/images/271767211_2d1abac2bc_b.jpg
+### Coffee Shops, Developers, and You
+
+Note:
+The person we bought the shop from had started it 5 years prior as a way to engage with her daughter who, a few years after starting, moved away to college. That left the owner with an increasing malaise, decreasing motivation, and a general leaning to authoritarian-ly mother (it’s a word, and a real thing — trust me) all those who entered the shop.
+
+---?image=assets/images/137054035_d65c0167da_o.jpg
+
+Note:
+- No outside food or drink (even if it was from a place that served what the shop didn’t, or wasn’t a competitor)
+- If you were in the shop for more than an hour you must be ready to show proof that you had bought something or else you might be asked to leave (literally… she would walk around the store and randomly ask people to show their receipt)
+- No loitering
+
+See, what had happened was that an environment had been created where no one felt welcome, unless you were part of her inner circle. There were all sorts of rules (many unwritten) which needed to be followed before you could hope to be welcomed — and often that was a steep path where most just bailed.
+
+---
+@quote[Ruthlessly eliminate any barrier that keeps you from building a relationship with your target audience, and them with you](me)
+
 ---?image=assets/images/coffee_title.jpg&size=auto
 ### What does this have to do with DevRel?
 
