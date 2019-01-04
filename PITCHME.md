@@ -8,26 +8,22 @@
 ## 2008 - 2010
 ![crazy kids](assets/images/crazykids.jpg)
 
----?image=assets/images/coffee_title.jpg&size=auto
-### What does this have to do with DevRel?
-
 ---?image=assets/images/whatisdevrel.jpg&size=auto
 @title[What is DevRel]
 ### What is @color[#F39C12]("DevRel")?
 
 ---
+### February 3, 2000
 #### @color[#F39C12](Dev)eloper + @color[#F39C12](Rel)ations
 
 ---
 #### @color[#F39C12](Relations)(hips) with @color[#F39C12](Developer)(s)
 
 ---
-@snap[west span-40]
-![devrelbook](assets/images/devrel_book.jpg)
-@snapend
-@snap[east span-40]
 @quote[build relationships with the developer community](Mary Thengvall)
-@snapend
+
+---?image=assets/images/coffee_title.jpg&size=auto
+### What does this have to do with DevRel?
 
 ---
 @title[How does Coffee Relate to DevRel?]
