@@ -44,8 +44,20 @@ See, what had happened was that an environment had been created where no one fel
 ---
 @quote[Ruthlessly eliminate any barrier that keeps you from building a relationship with your target audience, and them with you](me)
 
+Note:
+Which brings me to a principle of successful DevRel programs...
+That may require you to revamp your onboarding, or to revise your messaging, or make your free tier a bit more usable, or to revamp your website, or even to revamp your target audience — but whatever it is, ruthlessly eliminate it. Like yesterday. But maybe have a cup of coffee first? I’m sure those around you might benefit from it just as much as you.
+
 ---?image=assets/images/coffee_title.jpg&size=auto
 ### What does this have to do with DevRel?
+
+Note:
+Glad you asked. 
+
+---?image=assets/images/coffeeshop.jpg@size=auto
+
+Note:
+Imagine you walk into your local coffee shop (and to be clear, I mean a locally-owned, independent shop that isn’t Charbucks, Dunkin’ Donuts, etc — I didn’t say I wasn’t biased) — what do you see? What do you smell? What do you hear? If they’re doing things correctly, you’ll see crowds of people around tables working, talking or reading; you’ll smell freshly ground coffee; you’ll hear the whirr of the grinders, the chirping of (correct) milk steaming, the hum of music from some eclectic (and if you’re lucky, good) alternative band.
 
 ---
 @title[How does Coffee Relate to DevRel?]
