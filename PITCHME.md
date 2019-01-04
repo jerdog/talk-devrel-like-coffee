@@ -57,7 +57,14 @@ Glad you asked.
 ---?image=assets/images/coffeeshop.jpg&size=auto
 
 Note:
-Imagine you walk into your local coffee shop (and to be clear, I mean a locally-owned, independent shop that isn’t Charbucks, Dunkin’ Donuts, etc — I didn’t say I wasn’t biased) — what do you see? What do you smell? What do you hear? If they’re doing things correctly, you’ll see crowds of people around tables working, talking or reading; you’ll smell freshly ground coffee; you’ll hear the whirr of the grinders, the chirping of (correct) milk steaming, the hum of music from some eclectic (and if you’re lucky, good) alternative band.
+Imagine you walk into your local coffee shop (and to be clear, I mean a locally-owned, independent shop that isn’t Charbucks, Dunkin’ Donuts, etc — I didn’t say I wasn’t biased) — what do you see? What do you smell? What do you hear? If they’re doing things correctly, you’ll see crowds of people around tables working, talking or reading; you’ll smell freshly ground coffee; you’ll hear the whirr of the grinders, the chirping of (correct) milk steaming, the hum of music from some eclectic (and if you’re lucky, good) alternative band. What is it about all of that which stands out? It’s the environment. It’s interacting with multiple senses at the same time. It’s starting to prepare you for what will (hopefully) be a wonderful time. Why should that be any different from DevRel?
+
+---
+
+![coffeedev](https://media.giphy.com/media/d2ZdcwOXRJO6AeBi/giphy.gif)
+
+Note:
+The answer is of course that it shouldn’t. The same way you create a positive environment in a coffee shop, you do with DevRel. DevRel exists to build relationships with developers and if you’re not doing that, you don’t exist (or someone else will come along and do it for you).
 
 ---
 @title[How does Coffee Relate to DevRel?]
