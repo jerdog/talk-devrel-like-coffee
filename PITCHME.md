@@ -54,7 +54,7 @@ That may require you to revamp your onboarding, or to revise your messaging, or 
 Note:
 Glad you asked. 
 
----?image=assets/images/coffeeshop.jpg@size=auto
+---?image=assets/images/coffeeshop.jpg&size=auto
 
 Note:
 Imagine you walk into your local coffee shop (and to be clear, I mean a locally-owned, independent shop that isn’t Charbucks, Dunkin’ Donuts, etc — I didn’t say I wasn’t biased) — what do you see? What do you smell? What do you hear? If they’re doing things correctly, you’ll see crowds of people around tables working, talking or reading; you’ll smell freshly ground coffee; you’ll hear the whirr of the grinders, the chirping of (correct) milk steaming, the hum of music from some eclectic (and if you’re lucky, good) alternative band.
