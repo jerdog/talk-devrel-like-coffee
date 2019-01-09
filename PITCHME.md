@@ -93,9 +93,12 @@ After hearing that a number of times I started to come back to them with questio
 
 
 ---?image=assets/images/coffee_beans_snob.jpg&size=auto
+## “Coffee snob? Who, me?” @note[See, a few years ago I finally came to grips with the fact that I am a coffee snob (I know, I know — I’m a bit thick-headed and it shouldn’t have come as a surprise). My first foray into coffee was when I was 12 at the car dealership my father worked at, and that was only as a way to stay warm as the coffee was nothing more than sludge, requiring copious amounts of milk and sugar to make it moderately palatable.]
 
 Note:
-See, a few years ago I finally came to grips with the fact that I am a coffee snob (I know, I know — I’m a bit thick-headed and it shouldn’t have come as a surprise). My first foray into coffee was when I was 12 at the car dealership my father worked at, and that was only as a way to stay warm as the coffee was nothing more than sludge, requiring copious amounts of milk and sugar to make it moderately palatable.
+
+
+
 
 ---
 @title[How does Coffee Relate to DevRel?]
