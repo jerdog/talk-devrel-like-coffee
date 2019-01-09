@@ -8,6 +8,22 @@
 ## 2008 - 2010
 ![crazy kids](assets/images/crazykids.jpg)
 
+Note:
+So the year is 2008. My wife and I have 3 kids, 2 full-time jobs, and we’ve just bought a coffee shop. No one ever said I was the smartest pea in the pod.
+
+---?image=assets/images/271767211_2d1abac2bc_b.jpg&size=auto
+
+Note:
+Over the next two years we rebuilt the shop from an exclusive, failing shop to a vibrant, inclusive, growing shop. We were educating people on the nectar of the gods, and helping them make the best choices they could with their coffee money. We began to build relationships, some of which continue to this day, and I learned a few things about “developer relations.”
+
+
+---
+![Atari800XL](assets/images/Atari-800XL.jpg)
+
+Note:
+See I had spent years as a developer, going back to the mid-80s with BASIC on the Atari 800XL, and I had spent years in communities, starting with BBS’s before I was 13. What I hadn’t really connected the dots with was what drove developers and communities, and what this thing was that would eventually be called Developer Relations.
+
+
 ---?image=assets/images/whatisdevrel.jpg&size=auto
 @title[What is DevRel]
 ### What is @color[#F39C12]("DevRel")?
@@ -16,8 +32,15 @@
 ### February 3, 2000
 #### @color[#F39C12](Dev)eloper + @color[#F39C12](Rel)ations
 
+Note:
+This term “Developer Relations” isn’t really all that new in terms of Technology roles / lingo, with it first appearing in Google results on February 3, 2000. Defining it, however, is an exercise in “he said/she said/they said” with numerous definitions and processes and misunderstandings in abundance. For the purposes of what I am relating here (SWIDT?) I will define it as:
+
 ---
 #### @color[#F39C12](Relations)(hips) with @color[#F39C12](Developer)(s)
+
+Note:
+Eloquent, right? I mean, I didn’t skip college for nothin’! (Not exactly true, but not the subject of this diatribe.) Ok, so let’s use a definition which is a bit more elegant from Mary Thengvall’s The Business Value of Developer Relations:
+
 
 ---
 @quote[build relationships with the developer community](Mary Thengvall)
@@ -26,13 +49,13 @@ Note:
 
 Yeah — that’s a bit better. And what I really like about this one (as opposed to my terrible attempt at a lame joke), is that it encompasses so many activities (meetups, coffee with devs, conferences, community forums, etc.) which can roll up into how you “build relationships” without saying anything you have to do. Except build relationships with the developer community. That you must do. Got it?
 
----?image=assets/images/271767211_2d1abac2bc_b.jpg
+---
 ### Coffee Shops, Developers, and You
 
 Note:
 The person we bought the shop from had started it 5 years prior as a way to engage with her daughter who, a few years after starting, moved away to college. That left the owner with an increasing malaise, decreasing motivation, and a general leaning to authoritarian-ly mother (it’s a word, and a real thing — trust me) all those who entered the shop.
 
----?image=assets/images/137054035_d65c0167da_o.jpg
+---?image=assets/images/137054035_d65c0167da_o.jpg&size=auto
 
 Note:
 - No outside food or drink (even if it was from a place that served what the shop didn’t, or wasn’t a competitor)
@@ -129,7 +152,7 @@ This afore-mentioned passion served me well when I would engage with our custome
 @quote[To give real service you must add something which cannot be bought or measured with money, and that is sincerity and integrity.](Douglas Adams)
 
 Note:
-Douglas Adams said it best... See, that’s DevRel to a “T” in my opinion. You have a product you are “evangelising”, and it requires that you actively listen, ask questions, build relationships with those developers using the product. It’s not always about pizza and beer (doesn’t hurt either), but it is about being intentional — it’s about being real. Developers can see through the marketing and sales bulls&*$ which so often is sent their way, and are willing to listen and try your product if/when they trust you. And that trust doesn’t happen immediately.
+Douglas Adams said it best... See, that’s DevRel to a “T” in my opinion. You have a product you are “evangelising”, and it requires that you actively listen, ask questions, build relationships with those developers using the product. It’s not always about pizza and beer (doesn’t hurt either), but it is about being intentional — it’s about being real. Developers can see through the marketing and sales bulls&*$ which so often is sent their way, and are willing to listen and try your product if/when they trust you. And that trust doesn’t happen immediately. In order to build that trust, your coffee shop (DevRel program) needs to be aligned in how you present and build relationships around your cup of coffee (product). And that’s where this “DevRel is like coffee” metaphor gets more interesting.
 
 
 ---?image=assets/images/coffee-equipment.jpg&size=auto
