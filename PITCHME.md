@@ -164,10 +164,24 @@ Note:
 As mentioned earlier, coffee is supposed to have flavour — and “char” is not a flavour. It’s a mental condition. It’s a resignation to not having nice things and instead settling. Don’t settle. Ever. So yes, coffee is supposed to have flavour — but in order to get there you must make sure certain components are in place and are working together (in no particular order) for coffee and devrel to be amazing:
 
 
-
 ---?image=assets/images/coffee-equipment.jpg&size=auto
 @title[Foundations of a good cup of coffee-Equipment]
+# Coffee
 ## @color[#F39C12](Equipment)
+
+Note: 
+Let’s face it — without good equipment, you can’t do much with anything. That doesn’t mean you need to spend your children’s college fund on coffee brewing equipment in order to achieve that perfect cup. Your Aeropress, french press, and pour-over brewing equipment are cheap alternatives (~$40) for single-cup brewing and work in concert with the rest of the components — but they require a bit more skill, precision, and patience to perfect than a normal brewer. But that doesn’t mean your regular drip coffee maker can’t make a good cup of coffee — it can — but it also won’t be the same as you could have from a coffee shop, for a number of factors that will be touched on below. 
+
+
+---
+@title[Foundations of a good DevRel program-Proper Tools]
+# DevRel
+## @color[#F39C12](Proper Tools)
+
+Note:
+Just as good equipment is an essential component for a good cup of coffee, so are the tools you use for yourselves and that you provide for your developer audience. Things like documentation, libraries, SDKs, etc. are essential pieces and you can’t neglect them. Developers may not like reading documentation, much less writing it, but they want to know that when they need you, you (and your tools) will be there. Your libraries and SDKs need to be thorough yet simple, and the least-technical person in the company should be able to run them, along with any tutorials you provide, without any issue.
+
+
 ---?image=assets/images/coffee-water.jpg&size=auto
 @title[Foundations of a good cup of coffee-Water]
 ## @color[#F39C12](Water)
