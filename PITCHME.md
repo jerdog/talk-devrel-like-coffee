@@ -67,6 +67,25 @@ Note:
 The answer is of course that it shouldn’t. The same way you create a positive environment in a coffee shop, you do with DevRel. DevRel exists to build relationships with developers and if you’re not doing that, you don’t exist (or someone else will come along and do it for you).
 
 ---
+
+Note:
+Think about the coffee shop as your DevRel program, the baristas as the team, the coffee as your product(s), the espresso machine as your tools, and so on. Each of those working (or not) together can influence the perception of your company, just as a good/bad cup of coffee can make/break your coffee shop.
+
+---
+
+![coffee menu](assets/images/crazy_menu.jpg)
+
+Note:
+Early in our adventure, I started to notice a phrase that many customers who were new to the shop would respond with when presented with the typically monolithic coffee shop menu... It would start with a confused, almost glassy-eyed expression in response to the question of what the staff could get for them — and then after a few moments they would utter the following phrase...
+
+---
+
+@quote[Um, I'll just have a cup of coffee...](Befuddled coffee shop patron)
+
+Note:
+Now we were of course a coffee shop, so it made sense that they would want a cup of coffee. But what was a consistent indicator as you would watch their experience, was “I’ll just have….” That phrase was often a resignation to the plethora of information they were being assaulted with, and instead of engaging with that menu and the barista and identifying something to order, they would settle for a cup of coffee.
+
+---
 @title[How does Coffee Relate to DevRel?]
 ## How does Coffee Relate to @color[#F39C12](DevRel)?
 
