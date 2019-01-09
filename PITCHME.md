@@ -155,6 +155,16 @@ Note:
 Douglas Adams said it best... See, that’s DevRel to a “T” in my opinion. You have a product you are “evangelising”, and it requires that you actively listen, ask questions, build relationships with those developers using the product. It’s not always about pizza and beer (doesn’t hurt either), but it is about being intentional — it’s about being real. Developers can see through the marketing and sales bulls&*$ which so often is sent their way, and are willing to listen and try your product if/when they trust you. And that trust doesn’t happen immediately. In order to build that trust, your coffee shop (DevRel program) needs to be aligned in how you present and build relationships around your cup of coffee (product). And that’s where this “DevRel is like coffee” metaphor gets more interesting.
 
 
+---
+## So about this coffee/devrel metaphor?
+
+![barista shrug](assets/images/barista_shrug_anim.gif)
+
+Note:
+As mentioned earlier, coffee is supposed to have flavour — and “char” is not a flavour. It’s a mental condition. It’s a resignation to not having nice things and instead settling. Don’t settle. Ever. So yes, coffee is supposed to have flavour — but in order to get there you must make sure certain components are in place and are working together (in no particular order) for coffee and devrel to be amazing:
+
+
+
 ---?image=assets/images/coffee-equipment.jpg&size=auto
 @title[Foundations of a good cup of coffee-Equipment]
 ## @color[#F39C12](Equipment)
