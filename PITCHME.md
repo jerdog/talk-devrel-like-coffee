@@ -85,6 +85,20 @@ Early in our adventure, I started to notice a phrase that many customers who wer
 Note:
 Now we were of course a coffee shop, so it made sense that they would want a cup of coffee. But what was a consistent indicator as you would watch their experience, was “I’ll just have….” That phrase was often a resignation to the plethora of information they were being assaulted with, and instead of engaging with that menu and the barista and identifying something to order, they would settle for a cup of coffee.
 
+
+---?image=assets/images/coffee_pourover.jpg&size=auto
+
+Note:
+After hearing that a number of times I started to come back to them with questions to break through their overwhelmed state. I would ask things like “What are you in the mood for?” or “What do you normally order?” It was in those answers that I often got to the bottom of what they really wanted, and was able to provide them with an experience that usually moved them to become a regular customer and enjoy their chosen product more thoroughly. Other times, they would stick with “just a cup of coffee” and I would still engage with them to then identify what type of coffee they typically order — and that’s where my passion would start to come out.
+
+
+---
+
+![coffee snob](assets/images/coffeesiphondev.gif)
+
+Note:
+See, a few years ago I finally came to grips with the fact that I am a coffee snob (I know, I know — I’m a bit thick-headed and it shouldn’t have come as a surprise). My first foray into coffee was when I was 12 at the car dealership my father worked at, and that was only as a way to stay warm as the coffee was nothing more than sludge, requiring copious amounts of milk and sugar to make it moderately palatable.
+
 ---
 @title[How does Coffee Relate to DevRel?]
 ## How does Coffee Relate to @color[#F39C12](DevRel)?
