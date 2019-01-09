@@ -166,7 +166,6 @@ As mentioned earlier, coffee is supposed to have flavour — and “char” 
 
 ---?image=assets/images/coffee-equipment.jpg&size=auto
 @title[Foundations of a good cup of coffee-Equipment]
-# Coffee
 ## @color[#F39C12](Equipment)
 
 Note: 
@@ -175,7 +174,6 @@ Let’s face it — without good equipment, you can’t do much with anythin
 
 ---
 @title[Foundations of a good DevRel program-Proper Tools]
-# DevRel
 ## @color[#F39C12](Proper Tools)
 
 Note:
@@ -185,9 +183,38 @@ Just as good equipment is an essential component for a good cup of coffee, so ar
 ---?image=assets/images/coffee-water.jpg&size=auto
 @title[Foundations of a good cup of coffee-Water]
 ## @color[#F39C12](Water)
+
+Note:
+One could make the argument that nothing impacts a cup of coffee more than the water used, and they have a point. You can’t have a cup of coffee without it. You can certainly use tap water, with some cities having better than other’s. Unfiltered water carries all sorts of things which can affect the taste of your coffee. Because of this, I recommend using filtered water, either in bottle form or from a filter-system like your fridge might have. It may not be coffee shop level filtering, but it’s better than nothing.
+
+
+---
+@title[Foundations of a good DevRel program-Empathy]
+## @color[#F39C12](Empathy (Advocacy))
+
+Note:
+Too often this word is missing from developer relations programs, and so let’s level-set what a good definition is. Merriam-Webster defines it as:
+
+
+---
+@quote[the action of understanding, being aware of, being sensitive to, and vicariously experiencing the feelings, thoughts, and experience of another of either the past or present without having the feelings, thoughts, and experience fully communicated in an objectively explicit manner](Merriam-Webster)
+
+
+Wow. That’s a lot to unpack. As a member of a devrel team, being able to understand, be aware of, sense, and experience the feelings and experiences of the developers you’re trying to is essential — and I would suggest that there is no more important trait that a developer relations professional can have. 
+
+
+---
+@title[Foundations of a good DevRel program-Empathy]
+## @color[#F39C12](Empathy (Advocacy))
+
+Note:
+Sure they should have technical chops, but that should be secondary or thirdary (it’s a thing I assure you) to empathy. They are to advocate for the developer / customer back to Product, Engineering, etc. and should have an acute understanding of all that they are experiencing. It is highly likely that the devrel team will come in contact with real users of the product exponentially more times than anyone else in the company — and as such it’s important they employ empathy. Developers don’t care that you know, until they know that you care. That’s where your empathy shines through.
+
+
 ---?image=assets/images/coffee-temp.jpg&size=auto
 @title[Foundations of a good cup of coffee-Temp]
 ## @color[#F39C12](Temp)
+
 ---?image=assets/images/coffee-barista.jpg&size=auto
 @title[Foundations of a good cup of coffee-Barista]
 ## @color[#F39C12](Barista)
