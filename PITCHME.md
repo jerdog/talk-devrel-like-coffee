@@ -11,7 +11,7 @@
 Note:
 So the year is 2008. My wife and I have 3 kids, 2 full-time jobs, and we’ve just bought a coffee shop. No one ever said I was the smartest pea in the pod.
 
----?image=assets/images/271767211_2d1abac2bc_b.jpg&size=auto
+---?image=assets/images/271767211_2d1abac2bc_b.jpg
 
 Note:
 Over the next two years we rebuilt the shop from an exclusive, failing shop to a vibrant, inclusive, growing shop. We were educating people on the nectar of the gods, and helping them make the best choices they could with their coffee money. We began to build relationships, some of which continue to this day, and I learned a few things about “developer relations.”
