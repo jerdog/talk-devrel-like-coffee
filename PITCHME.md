@@ -190,7 +190,7 @@ One could make the argument that nothing impacts a cup of coffee more than the w
 
 ---
 @title[Foundations of a good DevRel program-Empathy]
-## @color[#F39C12](Empathy (Advocacy))
+## @color[#F39C12](Empathy, aka Advocacy)
 
 Note:
 Too often this word is missing from developer relations programs, and so let’s level-set what a good definition is. Merriam-Webster defines it as:
@@ -199,13 +199,13 @@ Too often this word is missing from developer relations programs, and so let’s
 ---
 @quote[the action of understanding, being aware of, being sensitive to, and vicariously experiencing the feelings, thoughts, and experience of another of either the past or present without having the feelings, thoughts, and experience fully communicated in an objectively explicit manner](Merriam-Webster)
 
-
+Note:
 Wow. That’s a lot to unpack. As a member of a devrel team, being able to understand, be aware of, sense, and experience the feelings and experiences of the developers you’re trying to is essential — and I would suggest that there is no more important trait that a developer relations professional can have. 
 
 
 ---
 @title[Foundations of a good DevRel program-Empathy]
-## @color[#F39C12](Empathy (Advocacy))
+## @color[#F39C12](Empathy, aka Advocacy)
 
 Note:
 Sure they should have technical chops, but that should be secondary or thirdary (it’s a thing I assure you) to empathy. They are to advocate for the developer / customer back to Product, Engineering, etc. and should have an acute understanding of all that they are experiencing. It is highly likely that the devrel team will come in contact with real users of the product exponentially more times than anyone else in the company — and as such it’s important they employ empathy. Developers don’t care that you know, until they know that you care. That’s where your empathy shines through.
