@@ -105,7 +105,10 @@ Note:
 It wasn’t really until my early 20’s that I gave coffee another chance via Charbucks as a friend of mine worked there. For all the problems with Charbucks (and if you don’t know — Starbucks is called that because they literally burn, or overroast, their coffee which brings out a heavily bitter taste requiring a metric f*T$ton of sweets to make it palatable), they were a step up from the sludge of my youth and what I was accustomed to. They were the gateway drug and opened a whole new world for me, so I guess they have a purpose. I found that I liked an Americano, which is just a couple shots of espresso and hot water — and that I could live with ordering that when my friends wanted to go to Charbucks.
 
 
+---?image=assets/images/specialtycoffeeshop.jpg&size=auto
 
+Note:
+Not long after though, I began to frequent the independent shops in a search for a better cup of coffee, and that’s where I would say I truly fell in love with the nectar of the gods. I came in contact with a locally-roasted coffee which blew my mind: I didn’t need any milk to mask the bitterness, it wasn’t an Americano, and there were actual flavours I could taste! That unlocked a whole new world and I left Charbucks behind (and to this day I’ve probably only been there a handful of times in the last 15+ years).
 
 ---
 @title[How does Coffee Relate to DevRel?]
