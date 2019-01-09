@@ -110,9 +110,27 @@ It wasn’t really until my early 20’s that I gave coffee another chance via C
 Note:
 Not long after though, I began to frequent the independent shops in a search for a better cup of coffee, and that’s where I would say I truly fell in love with the nectar of the gods. I came in contact with a locally-roasted coffee which blew my mind: I didn’t need any milk to mask the bitterness, it wasn’t an Americano, and there were actual flavours I could taste! That unlocked a whole new world and I left Charbucks behind (and to this day I’ve probably only been there a handful of times in the last 15+ years).
 
+
+---?image=assets/images/flavourwheel.jpg&size=auto
+
+Note:
+Coffee is supposed to have flavour, especially when it isn’t overroasted. Finding those flavours, or notes, during the “coffee cupping” activity is real, and not unlike how wine is tasted. There’s even a flavour wheel for identifying what it is you are tasting or smelling. I was smitten. I dove headfirst into learning, and tasting, everything I could about the Specialty Coffee industry. I went to coffee shops all over town, visited the top roaster in Kansas multiple times (who would eventually be the top in the US), and even competed in a barista competition. My wife and I even volunteered at, and then eventually took over as managers, our church’s coffee shop. All the while I kept learning and loving and embracing coffee — and when the opportunity to buy my favourite shop in our town was presented, I jumped at it.
+
+
 ---
 @title[How does Coffee Relate to DevRel?]
-## How does Coffee Relate to @color[#F39C12](DevRel)?
+## So what does this have to do with @color[#F39C12](DevRel)?
+
+Note:
+This afore-mentioned passion served me well when I would engage with our customers and begin to educate them on what a good cup of coffee should be, and what they would likely enjoy. It wasn’t uncommon for me to convert someone who “required” their coffee be equal parts milk, sugar, and coffee into a straight, black coffee drinker — all because I found out what they were looking for, wanting, and even (for some people) needing by asking, listening, and building a relationship with them.
+
+
+---
+@quote[To give real service you must add something which cannot be bought or measured with money, and that is sincerity and integrity.](Douglas Adams)
+
+Note:
+Douglas Adams said it best... See, that’s DevRel to a “T” in my opinion. You have a product you are “evangelising”, and it requires that you actively listen, ask questions, build relationships with those developers using the product. It’s not always about pizza and beer (doesn’t hurt either), but it is about being intentional — it’s about being real. Developers can see through the marketing and sales bulls&*$ which so often is sent their way, and are willing to listen and try your product if/when they trust you. And that trust doesn’t happen immediately.
+
 
 ---?image=assets/images/coffee-equipment.jpg&size=auto
 @title[Foundations of a good cup of coffee-Equipment]
@@ -142,5 +160,4 @@ Not long after though, I began to frequent the independent shops in a search for
 - Community / Temp
 - ____ / Equipment
 
----
-@quote[To give real service you must add something which cannot be bought or measured with money, and that is sincerity and integrity.](Douglas Adams)
+
