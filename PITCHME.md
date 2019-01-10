@@ -208,30 +208,63 @@ Wow. That’s a lot to unpack. As a member of a devrel team, being able to under
 ## @color[#F39C12](Empathy, aka Advocacy)
 
 Note:
-Sure they should have technical chops, but that should be secondary or thirdary (it’s a thing I assure you) to empathy. They are to advocate for the developer / customer back to Product, Engineering, etc. and should have an acute understanding of all that they are experiencing. It is highly likely that the devrel team will come in contact with real users of the product exponentially more times than anyone else in the company — and as such it’s important they employ empathy. Developers don’t care that you know, until they know that you care. That’s where your empathy shines through.
+Sure they should have technical chops, but that should be secondary or thirdary (it’s a thing I assure you) to empathy. They are to advocate for the developer / customer back to Product, Engineering, etc. and should have an acute understanding of all that they are experiencing. It is highly likely that the devrel team will come in contact with real users of the product exponentially more times than anyone else in the company — and as such it’s important they employ empathy. 
+
+---
+@quote[Developers don't care what you know, until they know that you care.](Me)
 
 
 ---?image=assets/images/coffee-temp.jpg&size=auto
 @title[Foundations of a good cup of coffee-Temp]
 ## @color[#F39C12](Temp)
 
+Note:
+Consistency is essential when it comes to the brewing process, and fluctuations in water temperature can make a big impact. The ideal brewing temperature is between 195F and 205F (between 90C and 96C), with the reason being nifty science: too cool and under-extraction of the coffee occurs, while too hot and over-extraction occurs. There is really no normal consumer coffee brewer which can reach this during the brewing cycle, except for a few (one of which I linked above), with the normal brewer typically only reaching 156F, and the older your brewer the more likely that the temperature will continue to drop over time. You can help your consumer brewer out by using just-off-boiling water so that it doesn’t have to work too hard, or to ensure that you’re using as-close-as-possible hot water — but it won’t be as precise. That being said, the closest you can get to the correct temp, the better your coffee will be.
+
+
+---
+@title[Foundations of a good DevRel program-Community]
+## @color[#F39C12](Community)
+
+Note:
+If you’ve spent any time around me you’ll know how passionate I am about community: how they’re formed, how they function, who’s in them, what makes them unique, etc. Developer communities are my passion. I love them. It’s why I finally made them a full-time career a few years ago instead of as just a hobby and obsession (not the stalker or alien kind of course). Those same communities are as unique as each coffee bean is, and need to be nurtured, listened to, and utilised to grow your reach and impact. That may come in the form of “superuser” or Ambassador programs, or in Office Hours, or via podcasts, User Days, etc. Don’t forsake the offline for the online either — it’s just as important. Make sure you’re present in your community, either personally or as a sponsorship of some sort at least.
+
+
 ---?image=assets/images/coffee-barista.jpg&size=auto
 @title[Foundations of a good cup of coffee-Barista]
 ## @color[#F39C12](Barista)
+
+Note:
+The person making your cup of coffee, which could be you, is important — and you should tip them accordingly. With that out of the way, training is essential to making sure that the drink being made is done so with precision — but it doesn’t stop with one training session, it’s a continual process. I would often do spot-checks on my baristas to make sure they were doing things correctly — because the product we were producing depended on it. Our reputation depended on it. The word “barista” literally means “someone who prepares coffee.” I won’t go into my usual tirade about how being a button-pusher on an espresso machine doesn’t mean someone is a barista as they aren’t the entity preparing the coffee. Because that tirade delves deeply into emotion and you DON’T WANT ME TO GO THERE. Ok? Got it?
+
+
+---
+@title[Foundations of a good DevRel program-Team]
+## @color[#F39C12](The Team)
+
+Note:
+In 2001, Jim Collins wrote a fantastic book on leadership entitled Good to Great, where he found that the key thing which separated good companies from great companies was this: they had the right people, on the right bus, in the right seats, going in the right direction. If you’re building a DevRel team, it’s important to know the roles you need, who’s going to fill them, what your goals are, and how you’re going to achieve them. As this isn’t a management post, I’ll not delve into that area of DevRel — but I do recommend you pick up Mary’s aforementioned book and pay attention to the section on roles and who you should be hiring.
+
+
 ---?image=assets/images/coffee-beans.jpg&size=auto
 @title[Foundations of a good cup of coffee-Beans]
 ## @color[#F39C12](Beans)
 
----
-@quote[Developers don't care what you know, until they know that you care.](Me)
+Note:
+The final component of a good cup of coffee is the beans. I mean, why go through all of the trouble to make sure the other things are top-notch, and then bomb it at the end with a crappy choice in beans? And let’s not forget that the roast of the beans matters as well. I’ve seen good quality beans ruined by being over-/under-roasted, and nothing makes sure an angel doesn’t get their wings than that! This plays into the “coffee has flavour” from above. The oils naturally found in the coffee bean are where the flavour comes from, and the roasting process brings them out. However, if you don’t get the right roast then the flavour won’t be fully realised, and in order to get the right roast it requires trial and error by the roaster. Once you have a good bean chosen, the next piece in the puzzle is the grind. This determines how well the coffee is extracted during the brewing process, and it’s important to make sure the grind is correct for how you’re brewing, with “coarse” meaning larger grounds, and “fine” meaning smaller grounds.
+
+Extra-coarse: cold-brew coffee
+Coarse: french press or Chemex
+Medium: auto-drip coffee (“drip grind”) and pourover (“fine drip grind”)
+Fine: espresso (“eh-spress-o”, not “EXXXXXpresso”)
+
 
 ---
-@title[Foundations of a good DevRel program]
-## Components of a Good @color[#F39C12](DevRel) Program
-- Empathy (Advocacy) / Water
-- Product / Beans
-- People / Barista
-- Community / Temp
-- ____ / Equipment
+@title[Foundations of a good DevRel program-Product]
+## @color[#F39C12](Fresh Product)
+
+Note:
+The message you’re trying to convey about your product is one which may become stagnate or not hit the mark with the audience you’re targeting. That’s ok. It happens. But don’t let it stay there. Every talk you give, every piece of swag you give out should be customised to the event in question. That doesn’t mean you write something new each event — but it does mean that you might have to make some minor tweaks to speak on Authentication at GopherCon as well as VueConf, or have a set of t-shirts or stickers or socks for a Javascript conference and for a .Net conference. Be relevant. Because if your product isn’t, then you have a problem.
+
 
 
