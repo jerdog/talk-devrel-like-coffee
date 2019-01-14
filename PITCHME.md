@@ -267,4 +267,21 @@ Note:
 The message you’re trying to convey about your product is one which may become stagnate or not hit the mark with the audience you’re targeting. That’s ok. It happens. But don’t let it stay there. Every talk you give, every piece of swag you give out should be customised to the event in question. That doesn’t mean you write something new each event — but it does mean that you might have to make some minor tweaks to speak on Authentication at GopherCon as well as VueConf, or have a set of t-shirts or stickers or socks for a Javascript conference and for a .Net conference. Be relevant. Because if your product isn’t, then you have a problem.
 
 
+---
+![outofbalance](assets/images/out-of-balance.gif)
+
+Note:
+Each one of these things could be a long diatribe in and of themselves, so I’ll save them for another time. But without all of these things working together, your DevRel efforts will be out of balance.
+
+
+---
+![coffee pouring](assets/images/coffee_pouring.gif)
+
+Note:
+So now that I think we're all thoroughly thirsty for a cup of coffee, let's talk about something else for a bit.
+
+
+---
+## Quantifying DevRel
+
 
