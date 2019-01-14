@@ -140,7 +140,7 @@ Note:
 Coffee is supposed to have flavour, especially when it isn’t overroasted. Finding those flavours, or notes, during the “coffee cupping” activity is real, and not unlike how wine is tasted. There’s even a flavour wheel for identifying what it is you are tasting or smelling. I was smitten. I dove headfirst into learning, and tasting, everything I could about the Specialty Coffee industry. I went to coffee shops all over town, visited the top roaster in Kansas multiple times (who would eventually be the top in the US), and even competed in a barista competition. My wife and I even volunteered at, and then eventually took over as managers, our church’s coffee shop. All the while I kept learning and loving and embracing coffee — and when the opportunity to buy my favourite shop in our town was presented, I jumped at it.
 
 
----
+---?image=assets/images/coffee_roasting-steam.gif&size=auth0
 @title[How does Coffee Relate to DevRel?]
 ## So what does this have to do with @color[#F39C12](DevRel)?
 
@@ -251,12 +251,16 @@ In 2001, Jim Collins wrote a fantastic book on leadership entitled Good to Great
 ## @color[#F39C12](Beans)
 
 Note:
-The final component of a good cup of coffee is the beans. I mean, why go through all of the trouble to make sure the other things are top-notch, and then bomb it at the end with a crappy choice in beans? And let’s not forget that the roast of the beans matters as well. I’ve seen good quality beans ruined by being over-/under-roasted, and nothing makes sure an angel doesn’t get their wings than that! This plays into the “coffee has flavour” from above. The oils naturally found in the coffee bean are where the flavour comes from, and the roasting process brings them out. However, if you don’t get the right roast then the flavour won’t be fully realised, and in order to get the right roast it requires trial and error by the roaster. Once you have a good bean chosen, the next piece in the puzzle is the grind. This determines how well the coffee is extracted during the brewing process, and it’s important to make sure the grind is correct for how you’re brewing, with “coarse” meaning larger grounds, and “fine” meaning smaller grounds.
+The final component of a good cup of coffee is the beans. I mean, why go through all of the trouble to make sure the other things are top-notch, and then bomb it at the end with a crappy choice in beans? And let’s not forget that the roast of the beans matters as well. I’ve seen good quality beans ruined by being over-/under-roasted, and nothing makes sure an angel doesn’t get their wings than that! This plays into the “coffee has flavour” from above. The oils naturally found in the coffee bean are where the flavour comes from, and the roasting process brings them out. However, if you don’t get the right roast then the flavour won’t be fully realised, and in order to get the right roast it requires trial and error by the roaster. 
 
-Extra-coarse: cold-brew coffee
-Coarse: french press or Chemex
-Medium: auto-drip coffee (“drip grind”) and pourover (“fine drip grind”)
-Fine: espresso (“eh-spress-o”, not “EXXXXXpresso”)
+
+---?image=assets/images/coffee-scale.jpg&size=auto
+## @color[#F39C12](Beans)
+
+Note:
+Once you have a good bean chosen, the next piece in the puzzle is the grind. This determines how well the coffee is extracted during the brewing process, and it’s important to make sure the grind is correct for how you’re brewing, with “coarse” meaning larger grounds, and “fine” meaning smaller grounds.
+
+Extra-coarse: cold-brew coffee // Coarse: french press or Chemex // Medium: auto-drip coffee (“drip grind”) and pourover (“fine drip grind”) // Fine: espresso (“eh-spress-o”, not “EXXXXXpresso”)
 
 
 ---
