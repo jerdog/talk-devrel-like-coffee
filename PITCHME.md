@@ -292,7 +292,7 @@ So now that I think we're all thoroughly thirsty for a cup of coffee, let's talk
 Note:
 It's important to be able to quantify what you're doing to show if there is value for that event/initiative/etc. In DevRel that can be an exercise in getting familiar with "fuzzy metrics". How do you know if you're having an impact? How do you know if it was worth going to X conference or sending out those stickers? Btw: you can figure out the ROI of stickers, as evidenced by a talk my friend Matt Broberg gave at CLS17.
 
----?image=assets/images/sticker_roi.jpg&size=auto
+---?image=assets/images/sticker_roi.jpg&size=80%
 
 Note:
 
