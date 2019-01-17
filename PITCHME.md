@@ -49,7 +49,7 @@ Note:
 
 Yeah — that’s a bit better. And what I really like about this one (as opposed to my terrible attempt at a lame joke), is that it encompasses so many activities (meetups, coffee with devs, conferences, community forums, etc.) which can roll up into how you “build relationships” without saying anything you have to do. Except build relationships with the developer community. That you must do. Got it?
 
----
+---?image=assets/images/coffeedevshop.jpg&size=auto
 ### Coffee Shops, Developers, and You
 
 Note:
