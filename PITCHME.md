@@ -268,7 +268,21 @@ Extra-coarse: cold-brew coffee // Coarse: french press or Chemex // Medium: auto
 ## @color[#F39C12](Fresh Product)
 
 Note:
-The message you’re trying to convey about your product is one which may become stagnate or not hit the mark with the audience you’re targeting. That’s ok. It happens. But don’t let it stay there. Every talk you give, every piece of swag you give out should be customised to the event in question. That doesn’t mean you write something new each event — but it does mean that you might have to make some minor tweaks to speak on Authentication at GopherCon as well as VueConf, or have a set of t-shirts or stickers or socks for a Javascript conference and for a .Net conference. Be relevant. Because if your product isn’t, then you have a problem.
+The message you’re trying to convey about your product is one which may become stagnate or not hit the mark with the audience you’re targeting. That’s ok. It happens. But don’t let it stay there. Every talk you give, every piece of swag you give out should be customised to the event in question. 
+
+
+---?image=assets/images/sticker_table.jpg&size=auto
+
+Note:
+That doesn’t mean you write something new each event — but it does mean that you might have to make some minor tweaks to speak on Authentication at GopherCon as well as VueConf, or have a set of t-shirts or stickers or socks for a Javascript conference and for a .Net conference. Be relevant. Because if your product isn’t, then you have a problem.
+
+
+---
+@img[fragment](assets/algolia_stickers1.jpg)
+@img[fragment](assets/algolia_stickers2.jpg)
+
+Note:
+One company that does this really well I think is Algolia. They have stickers for just about everything, and they're customised to what segment of their product is being pushed.
 
 
 ---
