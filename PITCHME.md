@@ -278,8 +278,8 @@ That doesn’t mean you write something new each event — but it does mean 
 
 
 ---
-@img[fragment](assets/algolia_stickers1.jpg)
-@img[fragment](assets/algolia_stickers2.jpg)
+@img[fragment](assets/images/algolia_stickers1.jpg)
+@img[fragment](assets/images/algolia_stickers2.jpg)
 
 Note:
 One company that does this really well I think is Algolia. They have stickers for just about everything, and they're customised to what segment of their product is being pushed.
