@@ -58,8 +58,7 @@ The person we bought the shop from had started it 5 years prior as a way to enga
 ---?image=assets/images/137054035_d65c0167da_o.jpg&size=auto
 -->
 
----
-![shame](https://tenor.com/view/shame-you-annie-community-gif-3954722)
+---?image=assets/images/shameonyou.gif&size=auto
 
 Note:
 - No outside food or drink (even if it was from a place that served what the shop didn’t, or wasn’t a competitor)
