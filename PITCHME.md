@@ -50,12 +50,16 @@ Note:
 Yeah — that’s a bit better. And what I really like about this one (as opposed to my terrible attempt at a lame joke), is that it encompasses so many activities (meetups, coffee with devs, conferences, community forums, etc.) which can roll up into how you “build relationships” without saying anything you have to do. Except build relationships with the developer community. That you must do. Got it?
 
 ---?image=assets/images/coffeedevshop.jpg&size=auto
-### Coffee Shops, Developers, and You
 
 Note:
 The person we bought the shop from had started it 5 years prior as a way to engage with her daughter who, a few years after starting, moved away to college. That left the owner with an increasing malaise, decreasing motivation, and a general leaning to authoritarian-ly mother (it’s a word, and a real thing — trust me) all those who entered the shop.
 
+<!--
 ---?image=assets/images/137054035_d65c0167da_o.jpg&size=auto
+-->
+
+---
+[shame](https://tenor.com/view/shame-you-annie-community-gif-3954722)
 
 Note:
 - No outside food or drink (even if it was from a place that served what the shop didn’t, or wasn’t a competitor)
