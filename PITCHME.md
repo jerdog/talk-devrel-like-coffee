@@ -321,42 +321,9 @@ Note:
 Each one of these things could be a long diatribe in and of themselves, so I’ll save them for another time. But without all of these things working together, your DevRel efforts will be out of balance.
 
 
-
-<!--
-
 ---
 ![coffee pouring](assets/images/coffee_pouring.gif)
 
 Note:
-So now that I think we're all thoroughly thirsty for a cup of coffee, let's talk about something else for a bit.
+So now that I think we're all thoroughly thirsty for a cup of coffee, who here has questions?
 
-
----
-## Quantifying DevRel
-![fuzzy metrics](assets/images/fuzzymetrics.jpg)
-
-Note:
-It's important to be able to quantify what you're doing to show if there is value for that event/initiative/etc. In DevRel that can be an exercise in getting familiar with "fuzzy metrics". How do you know if you're having an impact? How do you know if it was worth going to X conference or sending out those stickers? Btw: you can figure out the ROI of stickers, as evidenced by a talk my friend Matt Broberg gave at CLS17.
-
----?image=assets/images/sticker_roi.jpg&size=80%
-
-Note:
-You really can get an ROI on producing stickers. You can get an ROI on just about anything - but that doesn't mean you should.
-
----
-
-Note:
-In a talk that Steve Pousty gave at DevRelCon UK 2018, he touched on how ROI is a trap, and often whenever someone says "What's the ROI on that?" what they're really saying is "I think what you're saying is crap and not worth it." If you've spent any amount of time in any organization you've probably heard that question "What's the ROI on that?" and it's always used to force you to justify what it is you feel needs to happen to someone who doesn't. And if you've been in DevRel any amount of time, you know exactly when that question is coming. So in preparation for that question, it's good to know some data which we'll touch on real quickly.
-
-
----
-@ul
-- What's going well?
-- What's not?
-- What can we do differently?
-@ulend
-
-Note:
-These data points are good spots to start, and help you understand how and what you can and/or should be measuring. You're going to get a variety of answers, some qualitative and some quantitative, and each will serve a specific purpose. My friend Matt Broberg refers to this as "measuring things with your brain vs going with your gut." So some things you'll be able to get a specific number for, like how many people signed up for a trial from your talk, or engagement numbers on social media. Other things will be a gut instinct based on conversations and observations based on interactions with the community like the sentiment around a specific library or tool or initiative.
-
--->
