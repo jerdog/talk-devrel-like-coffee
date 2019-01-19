@@ -308,10 +308,10 @@ One company that does this really well I think is Algolia. They have stickers an
 ![algolia2](assets/images/algolia_stickers4.jpg)
 
 ---
-![algolia2](assets/images/algolia_stickers5.jpg)
+![algolia2](assets/images/algolia_stickers5.png)
 
 ---
-![algolia2](assets/images/algolia_pin.jpg)
+![algolia2](assets/images/algolia_pin.png)
 
 
 ---
