@@ -107,10 +107,6 @@ The answer is of course that it shouldn’t. The same way you create a positive 
 Note:
 Think about the coffee shop as your DevRel program, the baristas as the team, the coffee as your product(s), the espresso machine as your tools, and so on. Each of those working (or not) together can influence the perception of your company, just as a good/bad cup of coffee can make/break your coffee shop.
 
----
-
-@emoji[em-coffee]
-@fa[fa-mug-hot fragment]
 
 ---
 
