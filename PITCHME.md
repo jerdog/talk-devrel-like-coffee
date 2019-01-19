@@ -109,6 +109,11 @@ Think about the coffee shop as your DevRel program, the baristas as the team, th
 
 ---
 
+@emoji[em-coffee]
+@fa[mug-hot fragment]
+
+---
+
 ![coffee menu](assets/images/crazy_menu.jpg)
 
 Note:
