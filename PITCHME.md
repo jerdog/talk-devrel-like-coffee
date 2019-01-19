@@ -295,11 +295,17 @@ That doesn’t mean you write something new each event — but it does mean 
 ---
 ![algolia1](assets/images/algolia_stickers1.jpg)
 Note:
-One company that does this really well I think is Algolia. They have stickers for just about everything, and they're customised to what segment of their product is being pushed.
+One company that does this really well I think is Algolia. They have stickers and buttons for just about everything, from seasons to what segment of their product is being pushed.
 
 
 ---
 ![algolia2](assets/images/algolia_stickers2.jpg)
+
+---
+![algolia2](assets/images/algolia_stickers3.jpg)
+
+---
+![algolia2](assets/images/algolia_stickers4.jpg)
 
 
 
