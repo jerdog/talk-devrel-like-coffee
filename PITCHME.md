@@ -115,6 +115,7 @@ Think about the coffee shop as your DevRel program, the baristas as the team, th
 Note:
 Early in our adventure, I started to notice a phrase that many customers who were new to the shop would respond with when presented with the typically monolithic coffee shop menu... It would start with a confused, almost glassy-eyed expression in response to the question of what the staff could get for them — and then after a few moments they would utter the following phrase...
 
+
 ---
 
 @quote[Um, I'll just have a cup of coffee...](Befuddled coffee shop patron)
