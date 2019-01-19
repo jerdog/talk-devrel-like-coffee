@@ -102,7 +102,7 @@ Note:
 The answer is of course that it shouldn’t. The same way you create a positive environment in a coffee shop, you do with DevRel. DevRel exists to build relationships with developers and if you’re not doing that, you don’t exist (or someone else will come along and do it for you).
 
 
----
+---?image=assets/images/workingtogether.jpg&size=auto
 
 Note:
 Think about the coffee shop as your DevRel program, the baristas as the team, the coffee as your product(s), the espresso machine as your tools, and so on. Each of those working (or not) together can influence the perception of your company, just as a good/bad cup of coffee can make/break your coffee shop.
