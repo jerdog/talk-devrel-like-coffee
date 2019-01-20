@@ -187,7 +187,7 @@ Note:
 Let’s face it — without good equipment, you can’t do much with anything. That doesn’t mean you need to spend your children’s college fund on coffee brewing equipment in order to achieve that perfect cup. Your Aeropress, french press, and pour-over brewing equipment are cheap alternatives (~$40) for single-cup brewing and work in concert with the rest of the components — but they require a bit more skill, precision, and patience to perfect than a normal brewer. But that doesn’t mean your regular drip coffee maker can’t make a good cup of coffee — it can — but it also won’t be the same as you could have from a coffee shop, for a number of factors that will be touched on below. 
 
 
----
+---?image=assets/images/tools.jpg&size=auto
 @title[Foundations of a good DevRel program-Proper Tools]
 ## @color[#F39C12](Proper Tools)
 
@@ -234,7 +234,7 @@ Sure they should have technical chops, but that should be secondary or thirdary 
 ## @color[#F39C12](Temp)
 
 Note:
-Consistency is essential when it comes to the brewing process, and fluctuations in water temperature can make a big impact. The ideal brewing temperature is between 195F and 205F (between 90C and 96C), with the reason being nifty science: too cool and under-extraction of the coffee occurs, while too hot and over-extraction occurs. There is really no normal consumer coffee brewer which can reach this during the brewing cycle, except for a few (one of which I linked above), with the normal brewer typically only reaching 156F, and the older your brewer the more likely that the temperature will continue to drop over time. You can help your consumer brewer out by using just-off-boiling water so that it doesn’t have to work too hard, or to ensure that you’re using as-close-as-possible hot water — but it won’t be as precise. That being said, the closest you can get to the correct temp, the better your coffee will be.
+Consistency is essential when it comes to the brewing process, and fluctuations in water temperature can make a big impact. The ideal brewing temperature is between 195F and 205F (between 90C and 96C), with the reason being nifty science: too cool and under-extraction of the coffee occurs, while too hot and over-extraction occurs. There is really no normal home coffee brewer which can reach this during the brewing cycle, except for a few with the normal brewer typically only reaching 156F, and the older your brewer the more likely that the temperature will continue to drop over time. You can help your consumer brewer out by using just-off-boiling water so that it doesn’t have to work too hard, or to ensure that you’re using as-close-as-possible hot water — but it won’t be as precise. That being said, the closest you can get to the correct temp, the better your coffee will be.
 
 
 ---
@@ -283,7 +283,7 @@ Extra-coarse: cold-brew coffee // Coarse: french press or Chemex // Medium: auto
 ## @color[#F39C12](Fresh Product)
 
 Note:
-The message you’re trying to convey about your product is one which may become stagnate or not hit the mark with the audience you’re targeting. That’s ok. It happens. But don’t let it stay there. Every talk you give, every piece of swag you give out should be customised to the event in question. 
+The message you’re trying to convey about your product is one which may become stagnate or not hit the mark with the audience you’re targeting. That’s ok. It happens. But don’t let it stay there. Every talk you give, every piece of swag you give out should be customised to the event and audience in question. Know your audience, know your audience, know your audience.
 
 
 ---?image=assets/images/sticker_table.jpg&size=auto
@@ -318,11 +318,14 @@ One company that does this really well I think is Algolia. They have stickers an
 ![outofbalance](assets/images/out-of-balance.gif)
 
 Note:
-Each one of these things could be a long diatribe in and of themselves, so I’ll save them for another time. But without all of these things working together, your DevRel efforts will be out of balance.
+DevRel is an important piece for a company and has a number of parts - But without all of those parts working together, your DevRel efforts will be out of balance.
 
 
----
+--- 
 ![coffee pouring](assets/images/coffee_pouring.gif)
+@snap[south]
+## Q&A
+@snapend
 
 Note:
 So now that I think we're all thoroughly thirsty for a cup of coffee, who here has questions?
