@@ -274,7 +274,7 @@ People on the team are important though. And if you’re a member of a DevRel te
 @snap[north-east]
 ![devrelradio](assets/images/devrelradio.jpg)
 @snapend
-@snap[middle]
+@snap[midpoint]
 ![devrelcon](assets/images/devrelcon.png)
 @snapend
 @snap[south]
