@@ -268,6 +268,18 @@ People on the team are important though. And if you’re a member of a DevRel te
 
 
 ---
+@snap[north-west]
+![pulse](assets/images/community_pulse.png)
+@snapend
+@snap[north-east]
+![devrelradio](assets/images/devrelradio.jpg)
+@snapend
+@snap[middle]
+![devrelcon](assets/images/devrelcon.png)
+@snapend
+@snap[south]
+![devrelcollective](assets/images/devrelcollective.png)
+@snapend
 
 Note:
 Listen to DevRel podcasts (CommunityPulse, DevRelRadio to name a few), attend conferences like DevRelCon, join Slack groups like DevRelCollective… all of these help build into you as a DevRel professional and help you build relationships with others in the industry. I’ve met some amazing people who have become great friends while being part of DevRel, and I’ve learned some great things from the conversations, chatter, articles, conferences, etc. as a result. Don’t forsake these — if only for your own sanity. You’ll need it.
