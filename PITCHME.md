@@ -187,7 +187,7 @@ Note:
 Let’s face it — without good equipment, you can’t do much with anything. That doesn’t mean you need to spend your children’s college fund on coffee brewing equipment in order to achieve that perfect cup. Your Aeropress, french press, and pour-over brewing equipment are cheap alternatives (~$40) for single-cup brewing and work in concert with the rest of the components — but they require a bit more skill, precision, and patience to perfect than a normal brewer. But that doesn’t mean your regular drip coffee maker can’t make a good cup of coffee — it can — but it also won’t be the same as you could have from a coffee shop, for a number of factors that will be touched on below. 
 
 
----?image=assets/images/tools.jpg&size=auto
+---?image=assets/images/tools.jpg&size=80%
 @title[Foundations of a good DevRel program-Proper Tools]
 ## @color[#F39C12](Proper Tools)
 
