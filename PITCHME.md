@@ -203,7 +203,7 @@ Note:
 One could make the argument that nothing impacts a cup of coffee more than the water used, and they have a point. You can’t have a cup of coffee without it. You can certainly use tap water, with some cities having better than other’s. Unfiltered water carries all sorts of things which can affect the taste of your coffee. Because of this, I recommend using filtered water, either in bottle form or from a filter-system like your fridge might have. It may not be coffee shop level filtering, but it’s better than nothing.
 
 
----
+---?image=assets/images/empathy.jpg
 @title[Foundations of a good DevRel program-Empathy]
 ## @color[#F39C12](Empathy, aka Advocacy)
 
@@ -237,7 +237,7 @@ Note:
 Consistency is essential when it comes to the brewing process, and fluctuations in water temperature can make a big impact. The ideal brewing temperature is between 195F and 205F (between 90C and 96C), with the reason being nifty science: too cool and under-extraction of the coffee occurs, while too hot and over-extraction occurs. There is really no normal home coffee brewer which can reach this during the brewing cycle, except for a few with the normal brewer typically only reaching 156F, and the older your brewer the more likely that the temperature will continue to drop over time. You can help your consumer brewer out by using just-off-boiling water so that it doesn’t have to work too hard, or to ensure that you’re using as-close-as-possible hot water — but it won’t be as precise. That being said, the closest you can get to the correct temp, the better your coffee will be.
 
 
----
+---?image=assets/images/community.jpg
 @title[Foundations of a good DevRel program-Community]
 ## @color[#F39C12](Community)
 
@@ -343,6 +343,20 @@ One company that does this really well I think is Algolia. They have stickers an
 Note:
 DevRel is an important piece for a company and has a number of parts - But without all of those parts working together, your DevRel efforts will be out of balance.
 
+
+---?image=assets/images/family.jpg
+
+Note:
+In 2010, after two years of my wife and I each having two full-time jobs and three kids, we sold our coffee shop. We had built back up the business, grew awareness further outside our area, attended coffee conferences and represented companies, was featured in an industry magazine, and it was all great. But it was also extremely hard, very taxing on our kids, our relationships with others, and our marriage. We came to one critical realisation: we knew we could have a successful business, or know our kids and have a family. And they will win out every time. 
+
+
+---?image=assets/images/noragrets.gif
+
+Note:
+And we don’t for one second regret selling. Sure we miss not having an espresso machine in the house, or we miss being able to make our own cappuccino or latte when we know from the sound of the milk bring steamed or watching the barista make grind and pour the shots how the drink is going to taste — from across the room. But what we miss the most, and was the hardest to get used to, was the loss of community we had after spending day-in and day-out with the patrons — and frankly as I look back it’s the things I learned through coffee which influence how I view Developer Relations today. Because DevRel is like coffee.
+
+
+---?image=assets/images/harleyquinn-coffee.gif
 
 --- 
 ![coffee pouring](assets/images/coffee_pouring.gif)
