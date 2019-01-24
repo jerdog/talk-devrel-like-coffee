@@ -205,10 +205,9 @@ One could make the argument that nothing impacts a cup of coffee more than the w
 
 ---?image=assets/images/empathy.jpg
 @title[Foundations of a good DevRel program-Empathy]
-## @color[#F39C12](Empathy, aka Advocacy)
 
 Note:
-Too often this word is missing from developer relations programs, and so let’s level-set what a good definition is. Merriam-Webster defines it as:
+Too often the word empathy is missing from developer relations programs, and so let’s level-set what a good definition is. Merriam-Webster defines it as:
 
 
 ---
