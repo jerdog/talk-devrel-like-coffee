@@ -54,9 +54,6 @@ Yeah — that’s a bit better. And what I really like about this one (as op
 Note:
 The person we bought the shop from had started it 5 years prior as a way to engage with her daughter who, a few years after starting, moved away to college. That left the owner with an increasing malaise, decreasing motivation, and a general leaning to authoritarian-ly mother (it’s a word, and a real thing — trust me) all those who entered the shop.
 
-<!--
----?image=assets/images/137054035_d65c0167da_o.jpg&size=auto
--->
 
 ---?image=assets/images/shameonyou.gif
 
